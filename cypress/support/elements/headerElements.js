@@ -2,7 +2,7 @@
 
 class HeaderElements {
 
-    profileMenu = () => '.oxd-userdropdown-tab'
+    profileMenu = () => '.oxd-userdropdown-tab';
 
     disconnectAccount = () => ':nth-child(4) > .oxd-userdropdown-link'
 
