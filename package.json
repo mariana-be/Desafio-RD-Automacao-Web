@@ -1,0 +1,15 @@
+{
+  "name": "desafio-rd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cypress.config.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "keywords": [],
+  "author": "Mariana Bezerra da Silva",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.17.4"
+  }
+}
