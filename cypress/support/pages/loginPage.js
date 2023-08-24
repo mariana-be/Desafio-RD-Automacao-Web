@@ -20,5 +20,4 @@ class LoginPage {
         cy.get(loginElements.signinButton()).should('be.visible').click();
       }
     }
-
 export default LoginPage;   
