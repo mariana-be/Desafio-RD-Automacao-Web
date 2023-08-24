@@ -1,5 +1,5 @@
-import LoginPage from "../support/pages/loginPage"
-import AccountPage from "../support/pages/accountPage"
+import LoginPage from "../support/pages/loginPage";
+import AccountPage from "../support/pages/accountPage";
 import SearchPage from '../support/pages/searchPage';
 import DeletePage from "../support/pages/deletePage";
 import HeaderPage from '../support/pages/headerPage';
